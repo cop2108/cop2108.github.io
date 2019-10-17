@@ -1,9 +1,7 @@
 CLASSES = {
-  0: 'class0',
-  1: 'class1',
-  2: 'class2',
-  3: 'class3',
-  4: 'class4',
+  0: 'Low Memorial Library',
+  1: 'Northwest Corner',
+  2: 'Teachers College',
 };
 
 const MODEL_PATH =
